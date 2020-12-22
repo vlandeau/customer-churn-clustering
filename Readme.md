@@ -1,4 +1,4 @@
-The goal of this project is to demonstrate the use of a Random Forest to compute a similarity metrics, in order to perform some clustering..
+The goal of this project is to demonstrate the use of a Random Forest to compute a similarity metrics, in order to perform some clustering
 
 # Setup
 To setup your environment, please do the following:
